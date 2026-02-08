@@ -1,2 +1,2 @@
 # PPMCAD2026Rahul
-This is my first file learning teh Github
+This is my first file learning the Github
